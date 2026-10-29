@@ -1,0 +1,39 @@
+[theme]
+base = "light"
+primaryColor = "#0F9D8A"
+backgroundColor = "#F5F7FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#475569"
+borderColor = "#E2E8F0"
+font = "sans-serif"
+headingFont = "sans-serif"
+baseFontSize = 14
+baseFontWeight = 400
+baseRadius = "0.75rem"
+buttonRadius = "0.65rem"
+showWidgetBorder = true
+showSidebarBorder = true
+paddingTop = "1.25rem"
+paddingBottom = "2rem"
+headingFontSizes = ["32px", "24px", "20px", "16px", "14px", "12px"]
+headingFontWeights = [700, 700, 650, 600, 500, 500]
+metricValueFontSize = "2rem"
+metricValueFontWeight = 700
+linkUnderline = false
+linkColor = "#0F766E"
+codeBackgroundColor = "#F8FAFC"
+dataframeHeaderBackgroundColor = "#14213D"
+dataframeHeaderTextColor = "#FFFFFF"
+dataframeBorderColor = "#E2E8F0"
+chartCategoricalColors = ["#0F9D8A", "#3B82F6", "#0F766E", "#2563EB", "#60A5FA", "#14B8A6", "#64748B"]
+chartSequentialColors = ["#ECFDF8", "#D1FAE5", "#99F6E4", "#5EEAD4", "#2DD4BF", "#0F9D8A", "#0F766E", "#115E59", "#134E4A", "#042F2E"]
+chartDivergingColors = ["#1E3A8A", "#2563EB", "#60A5FA", "#BFDBFE", "#EFF6FF", "#FFFFFF", "#CCFBF1", "#5EEAD4", "#14B8A6", "#0F766E"]
+
+[theme.sidebar]
+backgroundColor = "#14213D"
+secondaryBackgroundColor = "#1E3256"
+textColor = "#F8FAFC"
+borderColor = "#314A73"
+primaryColor = "#0F9D8A"
+linkColor = "#8FE3D4"
+codeBackgroundColor = "#1E3256"
